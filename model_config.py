@@ -1,0 +1,1 @@
+Model_id = "google/medgemma-1.5-4b-it"
