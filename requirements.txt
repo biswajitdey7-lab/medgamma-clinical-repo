@@ -1,0 +1,7 @@
+The following packages/modules are required to be installed : 
+transformers
+accelerate 
+bitsandbytes 
+torch
+huggingface_hub
+re
