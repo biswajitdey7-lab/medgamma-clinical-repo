@@ -1,0 +1,76 @@
+Some sample outputs :
+
+==============================
+CASE 1
+==============================
+
+Input:
+Age: 28
+Sex: Female
+Symptoms: Severe sore throat, difficulty swallowing, swollen tonsils with white spots, fever (102°F) for 2 days
+Country: Canada
+Travel History: No
+
+Diagnosis:
+
+Risk Level: Medium
+Urgency: Urgent
+
+Highly probable conditions:
+1. Acute bacterial tonsillitis
+2. Streptococcal pharyngitis
+3. Viral pharyngitis
+
+Recommended course of action:
+1. Perform rapid strep test and initiate antibiotics if confirmed.
+2. Symptomatic care including hydration, antipyretics, and rest.
+
+==============================
+CASE 2
+==============================
+
+Input:
+Age: 60
+Sex: Male
+Symptoms: Acute chest pain, sweating, nausea for 2 days
+Country: India
+Travel History: No
+
+Diagnosis:
+
+Risk Level: High
+Urgency: Emergency
+
+Highly probable conditions:
+1. Acute coronary syndrome (possible myocardial infarction)
+2. Unstable angina
+3. Severe gastritis (differential diagnosis)
+
+Recommended course of action:
+1. Immediate emergency medical evaluation including ECG and cardiac enzyme testing.
+2. Administer aspirin unless contraindicated and transport to emergency facility.
+
+==============================
+CASE 3
+==============================
+
+Input:
+Age: 22
+Sex: Male
+Symptoms: Mild cough, low-grade fever (99°F), fatigue for 2 days
+Country: USA
+Travel History: No
+
+Diagnosis:
+
+Risk Level: Low
+Urgency: Routine
+
+Highly probable conditions:
+1. Viral upper respiratory infection
+2. Common cold
+3. Mild influenza
+
+Recommended course of action:
+1. Rest, hydration, and symptomatic treatment.
+2. Monitor symptoms and seek care if condition worsens.
