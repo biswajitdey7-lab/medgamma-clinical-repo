@@ -1,4 +1,3 @@
-!pip install -q transformers accelerate bitsandbytes torch
 import torch
 import re
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
