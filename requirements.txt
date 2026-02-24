@@ -1,4 +1,3 @@
-The following packages/modules are required to be installed : 
 transformers
 accelerate 
 bitsandbytes 
